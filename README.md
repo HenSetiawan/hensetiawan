@@ -16,6 +16,9 @@
 ### Things i code with:
 
 <p>
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-FFEA33?logo=javascript&logoColor=black&style=flat-square" />
+  <img alt="Php" src="https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white&style=flat-square" />
+  <img alt="Php" src="https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white&style=flat-square" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vuejs-43853d?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
