@@ -20,9 +20,9 @@
   <img alt="Css" src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=flat-square" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-FFEA33?logo=javascript&logoColor=black&style=flat-square" />
   <img alt="Php" src="https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white&style=flat-square" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-bd0826?logo=laravel&logoColor=white&style=flat-square" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vuejs-43853d?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-9C27B0?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Vuex" src="https://img.shields.io/badge/-Vuex-2757b0?style=flat-square&logo=Vuex&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-2088FF?style=flat-square&logo=github&logoColor=white" />
