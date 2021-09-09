@@ -28,3 +28,5 @@
   <img alt="Github" src="https://img.shields.io/badge/-Github-2088FF?style=flat-square&logo=github&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hensetiawan&layout=compact&theme=tokyonight&langs_count=6&hide=python,jupyter%20notebook,powershell)
