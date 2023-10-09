@@ -17,5 +17,6 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-FFEA33?logo=javascript&logoColor=black&style=flat-square" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vuejs-43853d?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+   <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 </p>
 
