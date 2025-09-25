@@ -6,7 +6,7 @@
 
 ### About me:
 
-- 🌱 I’m currently learning Laravel, React and Node.js
+- 🌱 I’m currently learning Networking, AWS and Node.js
 - 👯 I’m looking to collaborate on any kind of web dev
 - 🤔 I’m looking for help with on any kind of web dev
 - 💬 Ask me about anime,books and kdrama
