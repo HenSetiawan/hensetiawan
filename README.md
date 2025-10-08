@@ -6,10 +6,10 @@
 
 ### About me:
 
-- 🌱 I’m currently learning Networking, AWS and Node.js
-- 👯 I’m looking to collaborate on any kind of web dev
-- 🤔 I’m looking for help with on any kind of web dev
-- 💬 Ask me about anime,books and kdrama
+- 🌱 I’m currently learning AWS, Node.js, Networking
+- 👯 I’m looking to collaborate on any kind of software engginering
+- 🤔 I’m looking for help with on any kind of IT Infrasructure
+- 💬 Let's talk about life, adulting and AI
 
 ### Things i code with:
 
