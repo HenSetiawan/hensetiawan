@@ -6,7 +6,7 @@
 
 ### About me:
 
-- 🌱 I’m currently learning AWS, Node.js, Networking
+- 🌱 I’m currently learning AWS, Node.js and Networking
 - 👯 I’m looking to collaborate on any kind of software engginering
 - 🤔 I’m looking for help with on any kind of IT Infrasructure
 - 💬 Let's talk about life, adulting and AI
