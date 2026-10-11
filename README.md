@@ -6,18 +6,8 @@
 
 ### About me:
 
-- 🌱 I’m currently learning AWS, Node.js and Networking
+- 🌱 I’m currently learning AWS, Soft Eng and Networking
 - 👯 I’m looking to collaborate on any kind of software engginering
 - 🤔 I’m looking for help with on any kind of IT Infrasructure
 - 💬 Let's talk about life, adulting and AI
-
-### Things i code with:
-
-<p>
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-FFEA33?logo=javascript&logoColor=black&style=flat-square" />
-  <img alt="Vue" src="https://img.shields.io/badge/-Vuejs-43853d?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square" />
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-e83a43?logo=laravel&logoColor=white&style=flat-square" />
-</p>
 
